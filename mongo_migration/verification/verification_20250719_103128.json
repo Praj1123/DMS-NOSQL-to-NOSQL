@@ -1,0 +1,23 @@
+[
+  {
+    "collection": "users",
+    "source_count": 2,
+    "target_count": 2,
+    "match_percentage": 100.0,
+    "status": "OK"
+  },
+  {
+    "collection": "orders",
+    "source_count": 2,
+    "target_count": 2,
+    "match_percentage": 100.0,
+    "status": "OK"
+  },
+  {
+    "collection": "agents",
+    "source_count": 2,
+    "target_count": 2,
+    "match_percentage": 100.0,
+    "status": "OK"
+  }
+]

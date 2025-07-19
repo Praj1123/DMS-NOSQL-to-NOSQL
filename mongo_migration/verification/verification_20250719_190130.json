@@ -1,0 +1,23 @@
+[
+  {
+    "collection": "users",
+    "source_count": 0,
+    "target_count": 0,
+    "match_percentage": 0,
+    "status": "MISMATCH"
+  },
+  {
+    "collection": "orders",
+    "source_count": 32,
+    "target_count": 22,
+    "match_percentage": 68.75,
+    "status": "MISMATCH"
+  },
+  {
+    "collection": "agents",
+    "source_count": 0,
+    "target_count": 0,
+    "match_percentage": 0,
+    "status": "MISMATCH"
+  }
+]

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MongoDB CDC Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .summary {
+            background-color: #f8f9fa;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .success {
+            color: #27ae60;
+        }
+        .warning {
+            color: #f39c12;
+        }
+        .error {
+            color: #e74c3c;
+        }
+        .timestamp {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        .progress-bar {
+            height: 20px;
+            background-color: #ecf0f1;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 5px;
+        }
+        .progress-bar-fill {
+            height: 100%;
+            background-color: #3498db;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MongoDB CDC Report</h1>
+        <div class="timestamp">Generated on: {{timestamp}}</div>
+        
+        <div class="summary">
+            <h2>Summary</h2>
+            <p>Total Collections: {{total_collections}}</p>
+            <p>Documents Updated: {{total_updates}}</p>
+            <p>Documents Deleted: {{total_deletions}}</p>
+        </div>
+        
+        <h2>Collection Details</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Collection</th>
+                    <th>Source Count</th>
+                    <th>Target Count</th>
+                    <th>Updates</th>
+                    <th>Deletions</th>
+                    <th>Last Update</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#collections}}
+                <tr>
+                    <td>{{name}}</td>
+                    <td>{{source_count}}</td>
+                    <td>{{target_count}}</td>
+                    <td>
+                        {{updates}}
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" style="width: {{update_percent}}%"></div>
+                        </div>
+                    </td>
+                    <td>
+                        {{deletions}}
+                        <div class="progress-bar">
+                            <div class="progress-bar-fill" style="width: {{deletion_percent}}%"></div>
+                        </div>
+                    </td>
+                    <td>{{last_update}}</td>
+                </tr>
+                {{/collections}}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

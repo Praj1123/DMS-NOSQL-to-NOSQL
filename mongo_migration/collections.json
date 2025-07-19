@@ -1,0 +1,5 @@
+[
+  { "source_db": "test", "target_db": "test", "collection": "users" },
+  { "source_db": "test", "target_db": "test", "collection": "orders" },
+  { "source_db": "test", "target_db": "test", "collection": "agents" }
+]

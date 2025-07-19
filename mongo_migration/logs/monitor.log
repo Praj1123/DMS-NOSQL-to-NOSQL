@@ -1,0 +1,1527 @@
+2025-07-19 13:11:08,928 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 13:11:13,220 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_131113.json
+2025-07-19 13:49:38,328 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 13:49:43,440 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_134943.json
+2025-07-19 13:59:26,058 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 13:59:31,281 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_135931.json
+2025-07-19 14:50:49,458 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 14:50:49,463 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:50:54,467 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145054.json
+2025-07-19 14:50:55,483 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:00,478 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145100.json
+2025-07-19 14:51:01,502 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:06,046 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145106.json
+2025-07-19 14:51:07,064 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:10,260 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145110.json
+2025-07-19 14:51:11,266 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:15,852 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145115.json
+2025-07-19 14:51:16,870 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:21,728 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145121.json
+2025-07-19 14:51:22,767 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:27,263 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145127.json
+2025-07-19 14:51:28,275 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:34,159 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145134.json
+2025-07-19 14:51:35,192 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:38,238 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145138.json
+2025-07-19 14:51:39,273 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:43,810 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145143.json
+2025-07-19 14:51:44,825 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:49,302 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145149.json
+2025-07-19 14:51:50,324 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:51:55,070 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145155.json
+2025-07-19 14:51:56,085 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:00,924 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145200.json
+2025-07-19 14:52:01,931 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:06,565 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145206.json
+2025-07-19 14:52:07,572 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:11,035 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145211.json
+2025-07-19 14:52:12,047 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:16,928 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145216.json
+2025-07-19 14:52:17,938 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:23,127 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145223.json
+2025-07-19 14:52:24,134 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:28,933 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145228.json
+2025-07-19 14:52:29,938 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:34,710 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145234.json
+2025-07-19 14:52:35,713 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:39,043 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145239.json
+2025-07-19 14:52:40,048 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:44,616 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145244.json
+2025-07-19 14:52:45,622 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:50,431 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145250.json
+2025-07-19 14:52:51,440 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:52:56,080 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145256.json
+2025-07-19 14:52:57,099 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:01,840 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145301.json
+2025-07-19 14:53:02,855 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:07,415 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145307.json
+2025-07-19 14:53:08,425 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:11,698 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145311.json
+2025-07-19 14:53:12,707 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:17,195 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145317.json
+2025-07-19 14:53:18,198 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:22,925 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145322.json
+2025-07-19 14:53:24,079 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:28,742 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145328.json
+2025-07-19 14:53:29,745 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:34,411 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145334.json
+2025-07-19 14:53:35,433 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:40,046 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145340.json
+2025-07-19 14:53:41,051 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:44,235 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145344.json
+2025-07-19 14:53:45,248 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:49,669 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145349.json
+2025-07-19 14:53:50,677 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:53:55,134 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145355.json
+2025-07-19 14:53:56,142 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:54:01,017 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145401.json
+2025-07-19 14:54:02,037 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:54:06,758 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145406.json
+2025-07-19 14:54:07,766 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:54:10,826 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145410.json
+2025-07-19 14:54:11,830 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:54:16,409 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145416.json
+2025-07-19 14:54:30,559 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 14:54:30,563 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:54:35,370 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145435.json
+2025-07-19 14:54:36,408 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:56:27,954 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 14:56:27,958 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:56:32,773 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145632.json
+2025-07-19 14:56:33,784 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:57:05,520 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 14:57:05,524 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:57:10,632 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145710.json
+2025-07-19 14:57:11,673 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:06,774 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 14:59:06,777 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:11,533 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145911.json
+2025-07-19 14:59:12,538 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:17,240 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145917.json
+2025-07-19 14:59:18,246 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:21,804 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145921.json
+2025-07-19 14:59:22,820 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:27,426 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145927.json
+2025-07-19 14:59:28,431 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:32,960 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145932.json
+2025-07-19 14:59:33,987 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:38,622 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145938.json
+2025-07-19 14:59:39,631 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:44,233 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145944.json
+2025-07-19 14:59:45,240 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:49,784 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145949.json
+2025-07-19 14:59:49,320 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:53,964 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145953.json
+2025-07-19 14:59:54,978 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 14:59:59,886 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_145959.json
+2025-07-19 15:00:00,907 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:05,514 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150005.json
+2025-07-19 15:00:06,531 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:11,261 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150011.json
+2025-07-19 15:00:12,269 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:17,021 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150016.json
+2025-07-19 15:00:18,038 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:21,186 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150021.json
+2025-07-19 15:00:22,197 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:26,799 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150026.json
+2025-07-19 15:00:27,809 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:32,522 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150032.json
+2025-07-19 15:00:33,529 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:38,124 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150038.json
+2025-07-19 15:00:39,140 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:00:43,910 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150043.json
+2025-07-19 15:00:44,918 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:06:36,274 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 15:06:36,278 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:06:41,630 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150641.json
+2025-07-19 15:06:42,659 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:06:47,475 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150647.json
+2025-07-19 15:06:48,493 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:06:53,156 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150653.json
+2025-07-19 15:06:54,162 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:06:59,041 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150659.json
+2025-07-19 15:07:00,055 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:03,314 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150703.json
+2025-07-19 15:07:04,323 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:08,929 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150708.json
+2025-07-19 15:07:09,939 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:14,685 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150714.json
+2025-07-19 15:07:15,700 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:20,314 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150720.json
+2025-07-19 15:07:21,320 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:26,208 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150726.json
+2025-07-19 15:07:27,211 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:30,430 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150730.json
+2025-07-19 15:07:31,435 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:36,177 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150736.json
+2025-07-19 15:07:37,182 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:41,723 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150741.json
+2025-07-19 15:07:42,734 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:47,836 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150747.json
+2025-07-19 15:07:48,842 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:53,542 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150753.json
+2025-07-19 15:07:54,557 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:07:59,198 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150759.json
+2025-07-19 15:08:00,204 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:03,398 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150803.json
+2025-07-19 15:08:04,432 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:09,292 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150809.json
+2025-07-19 15:08:10,295 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:15,078 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150815.json
+2025-07-19 15:08:16,086 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:20,646 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150820.json
+2025-07-19 15:08:21,665 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:26,228 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150826.json
+2025-07-19 15:08:27,247 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:31,952 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150831.json
+2025-07-19 15:08:32,961 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:36,065 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150836.json
+2025-07-19 15:08:37,081 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:41,632 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150841.json
+2025-07-19 15:08:42,646 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:47,460 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150847.json
+2025-07-19 15:08:48,467 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:52,946 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150852.json
+2025-07-19 15:08:53,971 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:08:58,791 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150858.json
+2025-07-19 15:08:59,803 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:02,938 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150902.json
+2025-07-19 15:09:03,952 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:08,669 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150908.json
+2025-07-19 15:09:09,700 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:14,321 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150914.json
+2025-07-19 15:09:15,337 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:19,987 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150919.json
+2025-07-19 15:09:21,003 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:25,736 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150925.json
+2025-07-19 15:09:26,744 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:31,267 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150931.json
+2025-07-19 15:09:32,277 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:35,705 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150935.json
+2025-07-19 15:09:36,730 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:41,518 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150941.json
+2025-07-19 15:09:42,531 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:47,239 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150947.json
+2025-07-19 15:09:48,251 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:09:52,898 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_150952.json
+2025-07-19 15:09:53,902 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:22:38,856 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 15:22:38,861 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:22:43,826 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_152243.json
+2025-07-19 15:22:44,834 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:22:49,386 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_152249.json
+2025-07-19 15:22:50,397 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:22:53,377 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_152253.json
+2025-07-19 15:22:54,384 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:26:45,112 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 15:26:45,116 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:26:49,891 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_152649.json
+2025-07-19 15:26:50,905 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:26:55,411 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_152655.json
+2025-07-19 15:26:56,439 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:10,807 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 15:32:10,829 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:18,051 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153217.json
+2025-07-19 15:32:19,062 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:23,563 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153223.json
+2025-07-19 15:32:24,577 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:29,071 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153229.json
+2025-07-19 15:32:30,075 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:34,490 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153234.json
+2025-07-19 15:32:35,496 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:38,621 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153238.json
+2025-07-19 15:32:39,627 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:44,227 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153244.json
+2025-07-19 15:32:45,251 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:49,870 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153249.json
+2025-07-19 15:32:50,873 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:32:55,534 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153255.json
+2025-07-19 15:32:56,543 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:01,119 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153301.json
+2025-07-19 15:33:02,125 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:06,801 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153306.json
+2025-07-19 15:33:06,274 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:11,575 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153311.json
+2025-07-19 15:33:12,592 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:17,259 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153317.json
+2025-07-19 15:33:18,265 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:22,707 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153322.json
+2025-07-19 15:33:23,711 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:28,426 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153328.json
+2025-07-19 15:33:29,430 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:33,970 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153333.json
+2025-07-19 15:33:34,979 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:37,937 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153337.json
+2025-07-19 15:33:38,939 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:43,539 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153343.json
+2025-07-19 15:33:44,546 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:49,110 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153349.json
+2025-07-19 15:33:50,117 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:33:54,675 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153354.json
+2025-07-19 15:33:55,702 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:00,242 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153400.json
+2025-07-19 15:34:01,279 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:05,799 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153405.json
+2025-07-19 15:34:06,801 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:09,754 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153409.json
+2025-07-19 15:34:10,780 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:15,149 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153415.json
+2025-07-19 15:34:16,167 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:20,669 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153420.json
+2025-07-19 15:34:21,705 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:26,247 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153426.json
+2025-07-19 15:34:27,250 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:31,836 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153431.json
+2025-07-19 15:34:32,849 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:37,480 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153437.json
+2025-07-19 15:34:38,503 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:41,531 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153441.json
+2025-07-19 15:34:42,556 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:46,989 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153446.json
+2025-07-19 15:34:48,024 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:52,464 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153452.json
+2025-07-19 15:34:53,467 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:34:58,174 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153458.json
+2025-07-19 15:34:59,204 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:03,772 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153503.json
+2025-07-19 15:35:04,791 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:09,356 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153509.json
+2025-07-19 15:35:10,359 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:13,262 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153513.json
+2025-07-19 15:35:14,277 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:18,857 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153518.json
+2025-07-19 15:35:19,873 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:24,375 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153524.json
+2025-07-19 15:35:25,389 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:29,883 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153529.json
+2025-07-19 15:35:30,893 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:35,423 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153535.json
+2025-07-19 15:35:36,460 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:39,541 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153539.json
+2025-07-19 15:35:44,572 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 15:35:44,574 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:49,227 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153549.json
+2025-07-19 15:35:50,240 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:35:54,899 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153554.json
+2025-07-19 15:35:55,914 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:00,442 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153600.json
+2025-07-19 15:36:01,455 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:06,207 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153606.json
+2025-07-19 15:36:07,229 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:10,294 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153610.json
+2025-07-19 15:36:11,319 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:15,982 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153615.json
+2025-07-19 15:36:16,997 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:21,750 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153621.json
+2025-07-19 15:36:22,773 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:27,489 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153627.json
+2025-07-19 15:36:28,516 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:33,147 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153633.json
+2025-07-19 15:36:34,178 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 15:36:38,813 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_153638.json
+2025-07-19 15:36:39,842 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:54:44,041 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:54:48,725 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185448.json
+2025-07-19 18:56:43,647 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 18:56:43,650 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:56:48,293 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185648.json
+2025-07-19 18:56:50,296 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:56:54,754 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185654.json
+2025-07-19 18:56:56,757 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:01,482 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185701.json
+2025-07-19 18:57:03,485 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:07,799 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185707.json
+2025-07-19 18:57:09,804 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:14,214 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185714.json
+2025-07-19 18:57:16,219 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:20,737 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185720.json
+2025-07-19 18:57:22,742 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:27,218 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185727.json
+2025-07-19 18:57:29,225 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:33,671 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185733.json
+2025-07-19 18:57:35,675 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:40,248 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185740.json
+2025-07-19 18:57:42,252 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:46,643 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185746.json
+2025-07-19 18:57:48,647 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:53,202 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185753.json
+2025-07-19 18:57:55,205 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:57:59,472 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185759.json
+2025-07-19 18:58:01,475 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:05,985 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185805.json
+2025-07-19 18:58:07,988 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:12,669 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185812.json
+2025-07-19 18:58:14,672 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:19,004 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185818.json
+2025-07-19 18:58:21,011 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:25,438 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185825.json
+2025-07-19 18:58:27,442 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:31,777 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185831.json
+2025-07-19 18:58:33,781 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:38,207 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185838.json
+2025-07-19 18:58:40,211 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:44,790 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185844.json
+2025-07-19 18:58:46,793 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:51,596 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185851.json
+2025-07-19 18:58:53,599 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:58:58,023 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185858.json
+2025-07-19 18:59:00,027 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:04,671 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185904.json
+2025-07-19 18:59:06,675 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:11,547 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185911.json
+2025-07-19 18:59:13,550 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:17,868 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185917.json
+2025-07-19 18:59:19,871 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:24,729 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185924.json
+2025-07-19 18:59:26,732 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:31,069 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185931.json
+2025-07-19 18:59:33,072 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:37,398 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185937.json
+2025-07-19 18:59:39,402 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:43,842 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185943.json
+2025-07-19 18:59:45,846 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:50,458 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185950.json
+2025-07-19 18:59:52,462 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 18:59:57,207 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_185957.json
+2025-07-19 18:59:59,211 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:03,622 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190003.json
+2025-07-19 19:00:05,625 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:10,530 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190010.json
+2025-07-19 19:00:12,533 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:17,594 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190017.json
+2025-07-19 19:00:19,598 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:24,240 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190024.json
+2025-07-19 19:00:26,244 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:31,427 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190031.json
+2025-07-19 19:00:33,431 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:38,484 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190038.json
+2025-07-19 19:00:40,490 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:44,837 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190044.json
+2025-07-19 19:00:46,841 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:51,596 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190051.json
+2025-07-19 19:00:53,600 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:00:58,666 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190058.json
+2025-07-19 19:01:00,671 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:05,743 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190105.json
+2025-07-19 19:01:07,747 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:12,259 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190112.json
+2025-07-19 19:01:14,263 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:19,165 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190119.json
+2025-07-19 19:01:21,168 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:25,587 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190125.json
+2025-07-19 19:01:27,590 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:32,031 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190132.json
+2025-07-19 19:01:34,036 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:38,696 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190138.json
+2025-07-19 19:01:40,699 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:45,447 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190145.json
+2025-07-19 19:01:47,451 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:52,539 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190152.json
+2025-07-19 19:01:54,547 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:01:59,496 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190159.json
+2025-07-19 19:02:01,500 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:06,138 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190206.json
+2025-07-19 19:02:08,142 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:12,910 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190212.json
+2025-07-19 19:02:14,914 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:19,659 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190219.json
+2025-07-19 19:02:21,662 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:25,955 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190225.json
+2025-07-19 19:02:27,959 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:32,494 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190232.json
+2025-07-19 19:02:34,498 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:39,127 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190239.json
+2025-07-19 19:02:41,133 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:45,508 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190245.json
+2025-07-19 19:02:47,513 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:52,070 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190252.json
+2025-07-19 19:02:54,073 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:02:58,471 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190258.json
+2025-07-19 19:03:00,476 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:04,953 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190304.json
+2025-07-19 19:03:06,957 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:11,286 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190311.json
+2025-07-19 19:03:13,291 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:17,630 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190317.json
+2025-07-19 19:03:19,633 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:23,997 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190323.json
+2025-07-19 19:03:26,001 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:30,366 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190330.json
+2025-07-19 19:03:32,370 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:36,772 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190336.json
+2025-07-19 19:03:38,776 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:43,029 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190343.json
+2025-07-19 19:03:45,033 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:49,470 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190349.json
+2025-07-19 19:03:51,473 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:03:55,835 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190355.json
+2025-07-19 19:03:57,837 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:02,270 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190402.json
+2025-07-19 19:04:04,274 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:08,761 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190408.json
+2025-07-19 19:04:10,765 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:15,096 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190415.json
+2025-07-19 19:04:17,100 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:21,364 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190421.json
+2025-07-19 19:04:23,368 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:27,754 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190427.json
+2025-07-19 19:04:29,757 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:34,081 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190434.json
+2025-07-19 19:04:36,086 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:40,431 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190440.json
+2025-07-19 19:04:42,438 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:46,763 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190446.json
+2025-07-19 19:04:48,766 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:53,171 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190453.json
+2025-07-19 19:04:55,176 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:04:59,578 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190459.json
+2025-07-19 19:05:01,582 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:06,169 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190506.json
+2025-07-19 19:05:08,173 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:12,709 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190512.json
+2025-07-19 19:05:14,714 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:19,041 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190519.json
+2025-07-19 19:05:21,044 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:25,509 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190525.json
+2025-07-19 19:05:27,512 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:31,758 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190531.json
+2025-07-19 19:05:33,761 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:38,074 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190538.json
+2025-07-19 19:05:40,077 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:44,469 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190544.json
+2025-07-19 19:05:46,472 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:50,916 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190550.json
+2025-07-19 19:05:52,919 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:05:57,251 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190557.json
+2025-07-19 19:05:59,256 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:03,618 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190603.json
+2025-07-19 19:06:05,621 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:09,885 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190609.json
+2025-07-19 19:06:11,888 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:16,244 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190616.json
+2025-07-19 19:06:18,248 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:22,734 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190622.json
+2025-07-19 19:06:24,737 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:29,099 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190629.json
+2025-07-19 19:06:31,102 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:35,645 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190635.json
+2025-07-19 19:06:37,649 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:42,214 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190642.json
+2025-07-19 19:06:44,218 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:48,540 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190648.json
+2025-07-19 19:06:50,543 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:06:54,890 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190654.json
+2025-07-19 19:06:56,893 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:01,282 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190701.json
+2025-07-19 19:07:03,285 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:07,721 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190707.json
+2025-07-19 19:07:09,731 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:14,284 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190714.json
+2025-07-19 19:07:16,287 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:20,603 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190720.json
+2025-07-19 19:07:22,607 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:26,922 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190726.json
+2025-07-19 19:07:28,927 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:33,352 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190733.json
+2025-07-19 19:07:35,355 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:39,984 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190739.json
+2025-07-19 19:07:41,987 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:46,443 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190746.json
+2025-07-19 19:07:48,447 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:52,859 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190752.json
+2025-07-19 19:07:54,862 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:07:59,429 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190759.json
+2025-07-19 19:08:01,432 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:05,797 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190805.json
+2025-07-19 19:08:07,801 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:12,052 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190812.json
+2025-07-19 19:08:14,055 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:18,380 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190818.json
+2025-07-19 19:08:20,383 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:24,817 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190824.json
+2025-07-19 19:08:26,821 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:31,139 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190831.json
+2025-07-19 19:08:33,143 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:37,519 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190837.json
+2025-07-19 19:08:39,522 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:43,821 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190843.json
+2025-07-19 19:08:45,826 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:50,144 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190850.json
+2025-07-19 19:08:52,150 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:08:56,771 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190856.json
+2025-07-19 19:08:58,774 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:03,322 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190903.json
+2025-07-19 19:09:05,326 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:09,987 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190909.json
+2025-07-19 19:09:11,990 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:16,638 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190916.json
+2025-07-19 19:09:18,641 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:23,510 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190923.json
+2025-07-19 19:09:25,513 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:29,856 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190929.json
+2025-07-19 19:09:31,864 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:36,327 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190936.json
+2025-07-19 19:09:38,330 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:42,646 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190942.json
+2025-07-19 19:09:44,650 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:49,119 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190949.json
+2025-07-19 19:09:51,121 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:09:55,758 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_190955.json
+2025-07-19 19:09:57,763 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:02,115 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191002.json
+2025-07-19 19:10:04,119 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:08,457 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191008.json
+2025-07-19 19:10:10,460 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:15,111 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191015.json
+2025-07-19 19:10:17,115 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:21,581 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191021.json
+2025-07-19 19:10:23,585 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:27,985 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191027.json
+2025-07-19 19:10:29,987 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:34,578 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191034.json
+2025-07-19 19:10:36,581 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:40,897 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191040.json
+2025-07-19 19:10:42,900 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:47,257 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191047.json
+2025-07-19 19:10:49,260 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 19:10:53,483 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_191053.json
+2025-07-19 20:10:02,712 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 20:10:02,716 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:07,287 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201007.json
+2025-07-19 20:10:09,294 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:14,059 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201014.json
+2025-07-19 20:10:16,064 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:20,366 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201020.json
+2025-07-19 20:10:22,369 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:26,692 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201026.json
+2025-07-19 20:10:28,696 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:32,998 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201032.json
+2025-07-19 20:10:35,004 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:39,366 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201039.json
+2025-07-19 20:10:41,371 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:45,731 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201045.json
+2025-07-19 20:10:47,734 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:52,068 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201052.json
+2025-07-19 20:10:54,071 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:10:58,428 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201058.json
+2025-07-19 20:11:00,431 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:04,798 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201104.json
+2025-07-19 20:11:06,801 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:11,091 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201111.json
+2025-07-19 20:11:13,095 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:17,466 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201117.json
+2025-07-19 20:11:19,472 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:23,846 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201123.json
+2025-07-19 20:11:25,849 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:30,210 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201130.json
+2025-07-19 20:11:32,213 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:36,443 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201136.json
+2025-07-19 20:11:38,447 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:42,840 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201142.json
+2025-07-19 20:11:44,844 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:49,244 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201149.json
+2025-07-19 20:11:51,248 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:11:55,640 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201155.json
+2025-07-19 20:11:57,643 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:01,866 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201201.json
+2025-07-19 20:12:03,868 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:08,285 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201208.json
+2025-07-19 20:12:10,294 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:14,616 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201214.json
+2025-07-19 20:12:16,622 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:20,928 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201220.json
+2025-07-19 20:12:22,932 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:27,323 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201227.json
+2025-07-19 20:12:29,327 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:33,581 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201233.json
+2025-07-19 20:12:35,584 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:40,042 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201239.json
+2025-07-19 20:12:42,047 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:46,334 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201246.json
+2025-07-19 20:12:48,338 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:52,753 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201252.json
+2025-07-19 20:12:54,761 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:12:59,221 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201259.json
+2025-07-19 20:13:01,224 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:05,681 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201305.json
+2025-07-19 20:13:07,684 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:12,228 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201312.json
+2025-07-19 20:13:14,232 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:18,814 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201318.json
+2025-07-19 20:13:20,817 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:25,069 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201325.json
+2025-07-19 20:13:27,073 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:31,421 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201331.json
+2025-07-19 20:13:33,424 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:37,742 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201337.json
+2025-07-19 20:13:39,745 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:44,188 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201344.json
+2025-07-19 20:13:46,194 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:50,685 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201350.json
+2025-07-19 20:13:52,689 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:13:57,021 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201356.json
+2025-07-19 20:13:59,026 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:03,458 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201403.json
+2025-07-19 20:14:05,461 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:09,925 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201409.json
+2025-07-19 20:14:11,929 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:16,324 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201416.json
+2025-07-19 20:14:18,327 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:22,671 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201422.json
+2025-07-19 20:14:24,676 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:29,242 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201429.json
+2025-07-19 20:14:31,247 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:35,684 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201435.json
+2025-07-19 20:14:37,687 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:41,931 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201441.json
+2025-07-19 20:14:43,934 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:48,207 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201448.json
+2025-07-19 20:14:50,210 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:14:54,691 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201454.json
+2025-07-19 20:14:56,695 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:01,029 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201501.json
+2025-07-19 20:15:03,034 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:07,384 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201507.json
+2025-07-19 20:15:09,387 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:13,737 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201513.json
+2025-07-19 20:15:15,742 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:20,009 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201519.json
+2025-07-19 20:15:22,014 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:26,337 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201526.json
+2025-07-19 20:15:28,340 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:32,822 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201532.json
+2025-07-19 20:15:34,825 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:39,232 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201539.json
+2025-07-19 20:15:41,236 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:45,610 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201545.json
+2025-07-19 20:15:47,614 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:52,081 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201552.json
+2025-07-19 20:15:54,085 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:15:58,531 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201558.json
+2025-07-19 20:16:00,535 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:16:04,943 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201604.json
+2025-07-19 20:16:06,947 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:16:11,405 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201611.json
+2025-07-19 20:16:13,408 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:16:17,723 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201617.json
+2025-07-19 20:16:19,726 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:16:24,194 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201624.json
+2025-07-19 20:16:26,197 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:16:30,987 - monitor - INFO - Monitoring results saved to logs/monitor_20250719_201630.json
+2025-07-19 20:16:32,991 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:22:02,828 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:22:07,638 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202207.json
+2025-07-19 20:22:53,197 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 20:22:53,200 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:22:57,603 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202257.json
+2025-07-19 20:22:59,609 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:03,810 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202303.json
+2025-07-19 20:23:05,814 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:10,210 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202310.json
+2025-07-19 20:23:12,213 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:16,427 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202316.json
+2025-07-19 20:23:18,431 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:22,619 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202322.json
+2025-07-19 20:23:24,622 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:28,851 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202328.json
+2025-07-19 20:23:30,856 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:35,239 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202335.json
+2025-07-19 20:23:37,243 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:41,657 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202341.json
+2025-07-19 20:23:43,660 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:48,075 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202348.json
+2025-07-19 20:23:50,079 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:23:54,534 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202354.json
+2025-07-19 20:23:56,539 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:00,977 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202400.json
+2025-07-19 20:24:02,981 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:07,280 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202407.json
+2025-07-19 20:24:09,284 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:13,577 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202413.json
+2025-07-19 20:24:15,580 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:19,857 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202419.json
+2025-07-19 20:24:21,862 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:26,343 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202426.json
+2025-07-19 20:24:28,346 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:32,653 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202432.json
+2025-07-19 20:24:34,656 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:39,038 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202439.json
+2025-07-19 20:24:41,042 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:45,345 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202445.json
+2025-07-19 20:24:47,349 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:51,811 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202451.json
+2025-07-19 20:24:53,815 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:24:58,010 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202457.json
+2025-07-19 20:25:00,016 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:04,320 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202504.json
+2025-07-19 20:25:06,325 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:10,780 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202510.json
+2025-07-19 20:25:12,783 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:16,955 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202516.json
+2025-07-19 20:25:18,958 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:23,438 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202523.json
+2025-07-19 20:25:25,442 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:29,900 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202529.json
+2025-07-19 20:25:31,904 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:36,081 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202536.json
+2025-07-19 20:25:38,084 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:42,369 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202542.json
+2025-07-19 20:25:44,381 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:48,647 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202548.json
+2025-07-19 20:25:50,653 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:25:55,113 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202555.json
+2025-07-19 20:25:57,116 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:01,453 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202601.json
+2025-07-19 20:26:03,456 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:07,663 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202607.json
+2025-07-19 20:26:09,666 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:14,201 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202614.json
+2025-07-19 20:26:16,205 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:20,489 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202620.json
+2025-07-19 20:26:22,494 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:27,036 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202626.json
+2025-07-19 20:26:29,039 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:33,471 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202633.json
+2025-07-19 20:26:35,475 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:39,613 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202639.json
+2025-07-19 20:26:41,616 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:45,934 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202645.json
+2025-07-19 20:26:47,937 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:52,266 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202652.json
+2025-07-19 20:26:54,270 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:26:58,615 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202658.json
+2025-07-19 20:27:00,621 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:05,109 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202705.json
+2025-07-19 20:27:07,113 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:11,253 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202711.json
+2025-07-19 20:27:13,257 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:17,484 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202717.json
+2025-07-19 20:27:19,486 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:23,863 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202723.json
+2025-07-19 20:27:25,867 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:30,040 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202730.json
+2025-07-19 20:27:32,044 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:36,329 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202736.json
+2025-07-19 20:27:38,335 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:42,688 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202742.json
+2025-07-19 20:27:44,691 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:27:48,842 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_202748.json
+2025-07-19 20:38:34,880 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 20:38:34,882 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:38:39,371 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203839.json
+2025-07-19 20:38:41,376 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:38:46,012 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203845.json
+2025-07-19 20:38:48,017 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:38:52,344 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203852.json
+2025-07-19 20:38:54,346 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:38:58,922 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203858.json
+2025-07-19 20:39:00,925 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:05,457 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203905.json
+2025-07-19 20:39:07,461 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:11,802 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203911.json
+2025-07-19 20:39:13,807 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:18,321 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203918.json
+2025-07-19 20:39:20,324 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:24,807 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203924.json
+2025-07-19 20:39:26,812 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:31,392 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203931.json
+2025-07-19 20:39:33,395 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:37,833 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203937.json
+2025-07-19 20:39:39,837 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:44,428 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203944.json
+2025-07-19 20:39:46,434 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:50,806 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203950.json
+2025-07-19 20:39:52,810 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:39:57,149 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_203957.json
+2025-07-19 20:39:59,155 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:03,460 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204003.json
+2025-07-19 20:40:05,463 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:09,911 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204009.json
+2025-07-19 20:40:11,914 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:16,304 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204016.json
+2025-07-19 20:40:18,308 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:22,649 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204022.json
+2025-07-19 20:40:24,653 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:28,876 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204028.json
+2025-07-19 20:40:30,879 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:35,509 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204035.json
+2025-07-19 20:40:37,512 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:41,882 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204041.json
+2025-07-19 20:40:43,889 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:48,275 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204048.json
+2025-07-19 20:40:50,279 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:40:54,675 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204054.json
+2025-07-19 20:40:56,684 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:00,895 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204100.json
+2025-07-19 20:41:02,898 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:07,368 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204107.json
+2025-07-19 20:41:09,372 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:13,707 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204113.json
+2025-07-19 20:41:15,712 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:20,148 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204120.json
+2025-07-19 20:41:22,151 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:26,422 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204126.json
+2025-07-19 20:41:28,425 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:32,765 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204132.json
+2025-07-19 20:41:34,768 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:39,137 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204139.json
+2025-07-19 20:41:41,141 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:45,503 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204145.json
+2025-07-19 20:41:47,507 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:51,787 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204151.json
+2025-07-19 20:41:53,794 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:41:58,501 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204158.json
+2025-07-19 20:42:00,505 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:04,883 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204204.json
+2025-07-19 20:42:06,887 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:11,641 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204211.json
+2025-07-19 20:42:13,645 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:17,934 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204217.json
+2025-07-19 20:42:19,937 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:24,308 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204224.json
+2025-07-19 20:42:26,311 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:30,612 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204230.json
+2025-07-19 20:42:32,616 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:37,100 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204237.json
+2025-07-19 20:42:39,103 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:43,513 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204243.json
+2025-07-19 20:42:45,516 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:49,962 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204249.json
+2025-07-19 20:42:51,965 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:42:56,632 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204256.json
+2025-07-19 20:42:58,645 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:03,026 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204303.json
+2025-07-19 20:43:05,029 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:09,640 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204309.json
+2025-07-19 20:43:11,647 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:15,960 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204315.json
+2025-07-19 20:43:17,964 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:22,651 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204322.json
+2025-07-19 20:43:24,654 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:28,879 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204328.json
+2025-07-19 20:43:30,884 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:35,348 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204335.json
+2025-07-19 20:43:37,351 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:41,617 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204341.json
+2025-07-19 20:43:43,620 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:48,061 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204348.json
+2025-07-19 20:43:50,064 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:43:54,973 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204354.json
+2025-07-19 20:43:56,979 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:01,305 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204401.json
+2025-07-19 20:44:03,311 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:07,745 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204407.json
+2025-07-19 20:44:09,756 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:14,330 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204414.json
+2025-07-19 20:44:16,335 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:20,710 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204420.json
+2025-07-19 20:44:22,713 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:27,127 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204427.json
+2025-07-19 20:44:29,130 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:33,808 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204433.json
+2025-07-19 20:44:35,821 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:40,679 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204440.json
+2025-07-19 20:44:42,683 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:46,980 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204446.json
+2025-07-19 20:44:48,984 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:44:53,571 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204453.json
+2025-07-19 20:44:55,575 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:00,124 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204500.json
+2025-07-19 20:45:02,131 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:06,450 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204506.json
+2025-07-19 20:45:08,454 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:12,867 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204512.json
+2025-07-19 20:45:14,875 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:19,154 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204519.json
+2025-07-19 20:45:21,255 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:25,794 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204525.json
+2025-07-19 20:45:27,797 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:32,032 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204532.json
+2025-07-19 20:45:34,036 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:38,493 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204538.json
+2025-07-19 20:45:40,497 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:44,818 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204544.json
+2025-07-19 20:45:46,822 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:51,110 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204551.json
+2025-07-19 20:45:53,113 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:45:57,334 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204557.json
+2025-07-19 20:45:59,337 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:46:03,761 - monitor - INFO - Monitoring results saved to logs/monitor_current.json and logs/monitor_20250719_204603.json
+2025-07-19 20:49:35,996 - monitor - INFO - === MongoDB Migration Live Monitor Starting ===
+2025-07-19 20:49:36,000 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:49:40,860 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:49:42,864 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:49:47,835 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:49:49,838 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:49:54,576 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:49:56,580 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:01,065 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:03,068 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:07,571 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:09,576 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:14,212 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:16,218 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:21,292 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:23,302 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:28,261 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:30,273 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:35,152 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:37,166 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:41,949 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:43,951 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:48,437 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:50,440 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:50:54,954 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:50:56,957 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:01,578 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:03,582 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:08,374 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:10,377 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:14,741 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:16,743 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:21,505 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:23,509 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:28,185 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:30,190 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:34,858 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:36,861 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:41,529 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:43,532 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:47,643 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:49,646 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:51:53,999 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:51:56,003 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:00,629 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:02,632 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:06,984 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:08,993 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:13,671 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:15,673 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:20,174 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:22,177 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:26,505 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:28,510 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:33,511 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:35,514 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:40,198 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:42,206 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:46,984 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:48,989 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:52:54,084 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:52:56,090 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:00,936 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:02,939 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:07,493 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:09,498 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:14,065 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:16,068 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:20,335 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:22,338 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:26,516 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:28,519 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:32,769 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:34,778 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:39,077 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:41,081 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:45,408 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:47,413 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:51,793 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:53:53,796 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:53:58,124 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:00,127 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:04,407 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:06,411 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:10,739 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:12,743 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:17,116 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:19,119 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:23,548 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:25,552 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:30,949 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:32,952 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:37,209 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:39,212 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:43,550 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:45,553 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:49,930 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:51,935 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:54:56,127 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:54:58,129 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:02,277 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:04,282 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:08,726 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:10,729 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:15,044 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:17,047 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:21,704 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:23,708 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:28,030 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:30,033 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:34,186 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:36,189 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:40,391 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:42,395 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:46,598 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:48,600 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:52,872 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:55:54,876 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:55:59,242 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:01,245 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:05,438 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:07,441 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:12,014 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:14,019 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:18,545 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:20,548 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:24,813 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:26,816 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:31,093 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:33,096 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:37,297 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:39,300 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:43,863 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:45,866 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:50,216 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:52,219 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:56:56,952 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:56:58,955 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:03,638 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:05,641 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:09,841 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:11,844 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:16,155 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:18,171 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:22,813 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:24,818 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:29,064 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:31,066 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:35,380 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:37,384 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:41,680 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:43,682 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:48,180 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:50,182 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:57:54,400 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:57:56,402 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:00,778 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:02,781 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:06,920 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:08,923 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:13,094 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:15,097 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:19,580 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:21,584 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:25,939 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:27,942 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:32,270 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:34,273 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:38,603 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:40,605 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:44,779 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:46,782 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:51,056 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:53,060 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:58:57,584 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:58:59,592 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:03,930 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:05,933 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:10,243 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:12,247 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:16,429 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:18,433 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:22,797 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:24,801 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:29,336 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:31,340 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:35,944 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:37,949 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:42,395 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:44,398 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:48,565 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:50,568 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 20:59:54,824 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 20:59:56,829 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:01,121 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:03,125 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:07,465 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:09,471 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:13,752 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:15,757 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:20,132 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:22,134 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:26,404 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:28,408 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:32,810 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:34,814 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:39,164 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:41,171 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:45,710 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:47,715 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:52,100 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:00:54,105 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:00:58,435 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:00,439 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:04,705 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:06,708 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:11,033 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:13,038 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:17,617 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:19,625 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:23,913 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:25,917 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:30,179 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:32,184 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:36,450 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:38,454 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:43,155 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:45,158 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:49,573 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:51,577 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:01:56,028 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:01:58,031 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:02,297 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:04,305 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:08,590 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:10,593 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:14,883 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:16,887 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:21,395 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:23,400 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:27,741 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:29,744 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:34,204 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:36,207 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:40,642 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:42,646 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:47,142 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:49,145 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:53,440 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:02:55,443 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:02:59,890 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:01,893 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:06,221 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:08,225 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:12,572 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:14,576 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:18,909 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:20,914 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:25,129 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:27,133 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:31,931 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:33,958 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:39,164 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:41,178 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:46,925 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:49,044 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:03:57,077 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:03:59,128 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:05,580 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:07,716 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:13,185 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:15,215 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:21,143 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:23,165 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:27,455 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:29,457 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:35,517 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:37,520 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:41,656 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:43,658 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:47,842 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:49,844 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:04:54,088 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:04:56,090 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:00,364 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:02,366 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:06,542 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:08,544 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:12,756 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:14,758 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:18,940 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:20,941 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:25,257 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:27,274 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:31,493 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:33,495 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:37,866 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:39,868 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:44,098 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:46,100 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:50,475 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:52,478 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:05:56,758 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:05:58,761 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:03,148 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:05,150 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:09,455 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:11,457 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:15,651 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:17,652 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:21,854 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:23,857 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:28,028 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:30,030 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:34,358 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:36,359 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:40,671 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:42,675 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:46,914 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:48,916 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:53,185 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:06:55,191 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:06:59,512 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:01,514 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:05,938 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:07,939 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:12,296 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:14,303 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:18,632 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:20,634 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:24,886 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:26,894 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:31,158 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:33,160 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:37,479 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:39,481 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:43,777 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:45,785 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:49,994 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:51,996 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:07:56,271 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:07:58,272 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:02,549 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:04,551 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:08,888 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:10,890 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:15,221 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:17,241 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:21,491 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:23,498 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:27,808 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:29,811 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:34,092 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:36,094 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:40,241 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:42,244 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:46,612 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:48,617 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:52,839 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:08:54,841 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:08:59,077 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:01,079 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:05,462 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:07,464 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:11,630 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:13,632 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:17,967 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:19,969 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:24,209 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:26,211 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:30,334 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:32,336 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:36,614 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:38,616 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:42,786 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:44,790 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:49,046 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:51,048 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:09:55,360 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:09:57,362 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:01,604 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:03,606 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:07,861 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:09,864 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:14,130 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:16,132 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:20,454 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:22,457 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:26,725 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:28,727 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:32,830 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:34,832 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:39,044 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:41,045 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:45,218 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:47,220 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:51,552 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:53,554 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:10:57,899 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:10:59,902 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:04,197 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:06,199 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:10,407 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:12,409 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:16,586 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:18,588 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:22,778 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:24,782 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:29,086 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:31,089 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:35,351 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:37,353 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:41,602 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:43,603 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:47,771 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:49,775 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:11:54,067 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:11:56,070 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:00,372 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:02,375 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:06,666 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:08,668 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:12,910 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:14,914 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:19,196 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:21,198 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:25,399 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:27,407 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:31,879 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:33,882 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:38,239 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:40,241 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:44,445 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:46,447 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:50,933 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:52,935 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:12:57,202 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:12:59,204 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:03,498 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:05,502 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:09,853 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:11,859 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:16,167 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:18,169 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:22,388 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:24,392 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:28,686 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:30,692 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:35,137 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:37,142 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:41,508 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:43,510 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:47,741 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:49,743 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:13:54,049 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:13:56,051 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:00,365 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:02,369 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:06,636 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:08,639 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:12,865 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:14,868 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:19,113 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:21,115 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:25,273 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:27,276 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:31,522 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:33,523 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:37,878 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:39,881 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:44,142 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:46,150 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:50,254 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:52,256 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:14:56,520 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:14:58,521 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:02,767 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:04,769 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:08,993 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:10,995 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:15,267 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:17,275 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:21,704 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:23,706 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:28,006 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:30,008 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:34,366 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:36,372 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:40,619 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:42,625 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:46,970 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:48,972 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:53,262 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:15:55,264 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:15:59,575 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:01,578 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:05,903 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:07,905 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:12,114 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:14,117 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:18,391 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:20,393 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:24,614 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:26,616 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:30,687 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:32,689 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:36,954 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:38,957 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:43,266 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:45,268 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:49,586 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:51,588 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:16:55,797 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:16:57,809 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:02,070 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:04,079 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:08,480 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:10,481 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:14,807 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:16,808 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:21,188 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:23,191 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:27,428 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:29,430 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:33,801 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:35,803 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:40,072 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:42,074 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:46,254 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:48,256 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:52,498 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:17:54,500 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:17:58,784 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:00,785 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:04,893 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:06,894 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:11,169 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:13,174 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:17,442 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:19,444 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:23,729 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:25,732 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:30,163 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:32,166 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:36,468 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:38,471 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:42,671 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:44,673 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:48,835 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:50,837 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:18:54,999 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:18:57,003 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:01,270 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:03,271 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:07,559 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:09,561 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:13,755 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:15,757 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:19,953 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:21,959 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:26,145 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:28,148 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:32,452 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:34,454 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:38,689 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:40,690 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:44,901 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:46,903 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:51,106 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:53,113 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:19:57,445 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:19:59,447 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:20:03,649 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:20:05,651 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:20:09,976 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:20:11,978 - monitor - INFO - === MongoDB Migration Monitor Starting ===
+2025-07-19 21:20:16,068 - monitor - INFO - Monitoring results saved to logs/monitor_current.json
+2025-07-19 21:20:18,078 - monitor - INFO - === MongoDB Migration Monitor Starting ===

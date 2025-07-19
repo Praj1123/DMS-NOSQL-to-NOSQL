@@ -1,0 +1,76 @@
+[
+  {
+    "collection": "users",
+    "source_db": "test",
+    "target_db": "test",
+    "progress": {
+      "source_count": 0,
+      "target_count": 0,
+      "progress_pct": 100.0,
+      "remaining": 0,
+      "updates": 0,
+      "deletions": 0
+    },
+    "checkpoint": {
+      "last_updated": 1752933042.392066,
+      "age_seconds": 26969.641634702682,
+      "checkpoint_data": {
+        "last_updated_at": "2025-07-19T11:56:25.028000+00:00",
+        "last_operation_time": null,
+        "timestamp": "2025-07-19T13:50:42.392066"
+      },
+      "history": []
+    },
+    "eta": null
+  },
+  {
+    "collection": "orders",
+    "source_db": "test",
+    "target_db": "test",
+    "progress": {
+      "source_count": 129,
+      "target_count": 129,
+      "progress_pct": 100.0,
+      "remaining": 0,
+      "updates": 133,
+      "deletions": 6
+    },
+    "checkpoint": {
+      "last_updated": 1752959987.232219,
+      "age_seconds": 24.794764041900635,
+      "checkpoint_data": {
+        "last_updated_at": null,
+        "last_operation_time": "687c0a0b572e0bf199601c8f",
+        "timestamp": "2025-07-19T21:19:47.232219",
+        "updates": 133,
+        "deletions": 6
+      },
+      "history": []
+    },
+    "eta": null
+  },
+  {
+    "collection": "agents",
+    "source_db": "test",
+    "target_db": "test",
+    "progress": {
+      "source_count": 0,
+      "target_count": 0,
+      "progress_pct": 100.0,
+      "remaining": 0,
+      "updates": 0,
+      "deletions": 0
+    },
+    "checkpoint": {
+      "last_updated": 1752937037.817815,
+      "age_seconds": 22974.20197868347,
+      "checkpoint_data": {
+        "last_updated_at": null,
+        "last_operation_time": "687bafb8bfe1e437d489b803",
+        "timestamp": "2025-07-19T14:57:17.817815"
+      },
+      "history": []
+    },
+    "eta": null
+  }
+]

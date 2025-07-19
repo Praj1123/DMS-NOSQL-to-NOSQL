@@ -1,0 +1,145 @@
+2025-07-19 10:35:03,207 - change_stream_worker - INFO - [CHANGE STREAM START] Watching collection: users
+2025-07-19 10:35:03,207 - change_stream_worker - INFO - Started change stream thread for users
+2025-07-19 10:35:03,214 - change_stream_worker - INFO - [CHANGE STREAM START] Watching collection: orders
+2025-07-19 10:35:03,214 - change_stream_worker - INFO - Started change stream thread for orders
+2025-07-19 10:35:03,218 - change_stream_worker - INFO - [CHANGE STREAM START] Watching collection: agents
+2025-07-19 10:35:03,218 - change_stream_worker - INFO - Started change stream thread for agents
+2025-07-19 10:35:03,242 - change_stream_worker - INFO - [users] Starting new change stream
+2025-07-19 10:35:03,242 - change_stream_worker - INFO - [orders] Starting new change stream
+2025-07-19 10:35:03,242 - change_stream_worker - INFO - [agents] Starting new change stream
+2025-07-19 10:35:05,396 - change_stream_worker - ERROR - [users] Change stream worker failed: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/change_stream_worker.py", line 117, in watch_collection_changes
+    with src_collection.watch(pipeline, **options) as stream:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 572, in watch
+    change_stream._initialize_cursor()
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 159, in _initialize_cursor
+    self._cursor = self._create_cursor()
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 262, in _create_cursor
+    return self._run_aggregation_cmd(session=s, explicit_session=self._session is not None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 253, in _run_aggregation_cmd
+    return self._client._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2026, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1993, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2730, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2891, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/aggregation.py", line 164, in get_cursor
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/helpers.py", line 47, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/pool.py", line 414, in command
+    return command(
+           ^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/network.py", line 212, in command
+    helpers_shared._check_command_response(
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/helpers_shared.py", line 250, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+2025-07-19 10:35:05,397 - change_stream_worker - ERROR - [orders] Change stream worker failed: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/change_stream_worker.py", line 117, in watch_collection_changes
+    with src_collection.watch(pipeline, **options) as stream:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 572, in watch
+    change_stream._initialize_cursor()
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 159, in _initialize_cursor
+    self._cursor = self._create_cursor()
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 262, in _create_cursor
+    return self._run_aggregation_cmd(session=s, explicit_session=self._session is not None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 253, in _run_aggregation_cmd
+    return self._client._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2026, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1993, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2730, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2891, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/aggregation.py", line 164, in get_cursor
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/helpers.py", line 47, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/pool.py", line 414, in command
+    return command(
+           ^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/network.py", line 212, in command
+    helpers_shared._check_command_response(
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/helpers_shared.py", line 250, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+2025-07-19 10:35:05,397 - change_stream_worker - ERROR - [agents] Change stream worker failed: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/change_stream_worker.py", line 117, in watch_collection_changes
+    with src_collection.watch(pipeline, **options) as stream:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 572, in watch
+    change_stream._initialize_cursor()
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 159, in _initialize_cursor
+    self._cursor = self._create_cursor()
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 262, in _create_cursor
+    return self._run_aggregation_cmd(session=s, explicit_session=self._session is not None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/change_stream.py", line 253, in _run_aggregation_cmd
+    return self._client._retryable_read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2026, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1993, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2730, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2891, in _read
+    return self._func(self._session, self._server, conn, read_pref)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/aggregation.py", line 164, in get_cursor
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/helpers.py", line 47, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/pool.py", line 414, in command
+    return command(
+           ^^^^^^^^
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/synchronous/network.py", line 212, in command
+    helpers_shared._check_command_response(
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/venv/lib/python3.12/site-packages/pymongo/helpers_shared.py", line 250, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}
+2025-07-19 10:35:05,830 - change_stream_worker - INFO - All change stream threads have terminated

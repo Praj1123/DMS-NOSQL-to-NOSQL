@@ -1,0 +1,140 @@
+2025-07-19 10:17:26,530 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 10:17:26,532 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 10:17:26,533 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 10:17:31,093 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 10:17:31,583 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 10:17:31,583 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 10:19:12,305 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 10:19:12,307 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 10:19:12,310 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 10:19:17,418 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 10:19:17,419 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 10:19:17,419 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 10:26:38,837 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 10:26:38,839 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 10:26:38,843 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 10:26:46,591 - collection_worker - ERROR - Migration failed for users: Object of type ObjectId is not JSON serializable
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 149, in migrate_collection
+    verify_batch(docs, dest, collection_name)
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 53, in verify_batch
+    src_hash = hashlib.md5(json.dumps(src_doc, sort_keys=True).encode()).hexdigest()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ObjectId is not JSON serializable
+2025-07-19 10:26:46,638 - collection_worker - ERROR - Migration failed for orders: Object of type ObjectId is not JSON serializable
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 149, in migrate_collection
+    verify_batch(docs, dest, collection_name)
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 53, in verify_batch
+    src_hash = hashlib.md5(json.dumps(src_doc, sort_keys=True).encode()).hexdigest()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ObjectId is not JSON serializable
+2025-07-19 10:26:46,862 - collection_worker - ERROR - Migration failed for agents: Object of type ObjectId is not JSON serializable
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 149, in migrate_collection
+    verify_batch(docs, dest, collection_name)
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 53, in verify_batch
+    src_hash = hashlib.md5(json.dumps(src_doc, sort_keys=True).encode()).hexdigest()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ObjectId is not JSON serializable
+2025-07-19 10:31:13,540 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 10:31:13,545 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 10:31:13,549 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 10:31:22,101 - collection_worker - ERROR - Migration failed for users: '_id'
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 170, in migrate_collection
+    query["_id"]["$gt"] = last_id
+    ~~~~~^^^^^^^
+KeyError: '_id'
+2025-07-19 10:31:22,275 - collection_worker - ERROR - Migration failed for agents: '_id'
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 170, in migrate_collection
+    query["_id"]["$gt"] = last_id
+    ~~~~~^^^^^^^
+KeyError: '_id'
+2025-07-19 10:31:22,288 - collection_worker - ERROR - Migration failed for orders: '_id'
+Traceback (most recent call last):
+  File "/mnt/c/Users/prajw/Downloads/mongo_migration/mongo_migration/workers/collection_worker.py", line 170, in migrate_collection
+    query["_id"]["$gt"] = last_id
+    ~~~~~^^^^^^^
+KeyError: '_id'
+2025-07-19 10:32:39,254 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 10:32:39,256 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 10:32:39,257 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 10:32:43,899 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 10:32:43,900 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 10:32:43,930 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 12:00:38,210 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 12:00:38,212 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 12:00:38,215 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 12:00:42,587 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 12:00:43,261 - collection_worker - INFO - [PROGRESS] orders: Migrated 2 documents, up to ID 687b80146dad81c8b789b03e
+2025-07-19 12:00:43,571 - collection_worker - INFO - [DONE] orders - Total migrated: 2
+2025-07-19 12:00:48,177 - collection_worker - INFO - [PROGRESS] users: Migrated 1000 documents, up to ID 687b87e98177101ecd89b424
+2025-07-19 12:00:49,801 - collection_worker - INFO - [PROGRESS] users: Migrated 1100 documents, up to ID 687b87e98177101ecd89b488
+2025-07-19 12:00:50,119 - collection_worker - INFO - [DONE] users - Total migrated: 1100
+2025-07-19 12:02:19,953 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 12:02:19,954 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 12:02:19,956 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 12:02:24,425 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 12:02:24,478 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 12:02:29,474 - collection_worker - INFO - [PROGRESS] orders: Migrated 1000 documents, up to ID 687b893b8177101ecd89b870
+2025-07-19 12:02:29,794 - collection_worker - INFO - [DONE] orders - Total migrated: 1000
+2025-07-19 12:05:26,384 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 12:05:26,387 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 12:05:26,389 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 12:05:30,767 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 12:05:30,793 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 12:05:30,798 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 12:12:10,539 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 12:12:10,541 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 12:12:10,543 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 12:12:14,909 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 12:12:14,943 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 12:12:14,966 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 12:19:22,240 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 12:19:22,242 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 12:19:22,245 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 12:19:26,579 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 12:19:26,725 - collection_worker - INFO - [DONE] orders - Total migrated: 0
+2025-07-19 12:19:26,802 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 18:50:35,774 - collection_worker - INFO - [START] Migrating collection: users
+2025-07-19 18:50:35,780 - collection_worker - INFO - [START] Migrating collection: orders
+2025-07-19 18:50:35,785 - collection_worker - INFO - [START] Migrating collection: agents
+2025-07-19 18:50:40,411 - collection_worker - INFO - [DONE] users - Total migrated: 0
+2025-07-19 18:50:40,412 - collection_worker - INFO - [DONE] agents - Total migrated: 0
+2025-07-19 18:50:41,031 - collection_worker - INFO - [PROGRESS] orders: Migrated 22 documents, up to ID 687be433cc2b2d487989b051
+2025-07-19 18:50:41,355 - collection_worker - INFO - [DONE] orders - Total migrated: 22

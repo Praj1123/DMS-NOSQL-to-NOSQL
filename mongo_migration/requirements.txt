@@ -1,0 +1,6 @@
+pymongo>=4.13.2
+pytz
+tqdm
+pymongo[srv]
+jinja2>=3.0.0
+pystache
