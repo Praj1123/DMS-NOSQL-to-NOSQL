@@ -1350,3 +1350,64 @@ KeyError: '_id'
 2025-07-19 21:20:01,627 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
 2025-07-19 21:20:01,834 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
 2025-07-19 21:20:02,005 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
+2025-07-20 08:42:09,154 - migrate - INFO - === MongoDB Migration Tool Starting ===
+2025-07-20 08:42:09,157 - migrate - INFO - Validating source database connection...
+2025-07-20 08:42:11,094 - migrate - INFO - Validating target database connection...
+2025-07-20 08:42:12,910 - migrate - INFO - Database connections validated successfully
+2025-07-20 08:42:12,915 - migrate - INFO - Loaded 3 collections for migration
+2025-07-20 08:42:12,920 - migrate - INFO - Starting CDC mode
+2025-07-20 08:42:14,723 - migrate - WARNING - Change streams not supported: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}. Falling back to polling mode.
+2025-07-20 08:42:14,725 - migrate - INFO - Starting legacy CDC mode with polling in sequential mode
+2025-07-20 08:42:14,726 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:44:42,598 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:44:47,601 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:45:57,531 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
+2025-07-20 08:46:52,496 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
+2025-07-20 08:47:13,209 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:47:13,211 - migrate - INFO - CDC mode stopped
+2025-07-20 08:47:13,216 - migrate - INFO - CDC mode stopped
+2025-07-20 08:47:13,220 - migrate - INFO - Generating CDC report...
+2025-07-20 08:47:17,644 - migrate - INFO - CDC report generated successfully
+2025-07-20 08:47:18,384 - migrate - INFO - === MongoDB Migration Tool Starting ===
+2025-07-20 08:47:18,386 - migrate - INFO - Validating source database connection...
+2025-07-20 08:47:20,422 - migrate - INFO - Validating target database connection...
+2025-07-20 08:47:22,380 - migrate - INFO - Database connections validated successfully
+2025-07-20 08:47:22,384 - migrate - INFO - Loaded 3 collections for migration
+2025-07-20 08:47:22,388 - migrate - INFO - Starting CDC mode
+2025-07-20 08:47:24,304 - migrate - WARNING - Change streams not supported: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}. Falling back to polling mode.
+2025-07-20 08:47:24,305 - migrate - INFO - Starting legacy CDC mode with polling in sequential mode
+2025-07-20 08:47:24,307 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:49:51,640 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:49:56,651 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:52:32,198 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:52:37,201 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:55:16,610 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:55:21,615 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 08:58:14,686 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 08:58:19,690 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 09:01:13,322 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 09:01:18,327 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 09:02:29,414 - migrate - INFO - Shutdown requested. Completing current batch before exiting...
+2025-07-20 09:02:51,075 - migrate - INFO - === MongoDB Migration Tool Starting ===
+2025-07-20 09:02:51,080 - migrate - INFO - Validating source database connection...
+2025-07-20 09:02:53,169 - migrate - INFO - Validating target database connection...
+2025-07-20 09:02:55,115 - migrate - INFO - Database connections validated successfully
+2025-07-20 09:02:55,125 - migrate - INFO - Loaded 3 collections for migration
+2025-07-20 09:02:55,134 - migrate - INFO - Starting CDC mode with auto-threading
+2025-07-20 09:02:57,152 - migrate - WARNING - Change streams not supported: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}. Falling back to polling mode.
+2025-07-20 09:02:57,155 - migrate - INFO - Starting legacy CDC mode with polling in threaded (auto) mode
+2025-07-20 09:02:57,158 - migrate - INFO - Running CDC sync for 3 collections in test
+2025-07-20 09:04:05,217 - migrate - INFO - CDC cycle complete, sleeping before next sync
+2025-07-20 09:04:05,220 - migrate - INFO - CDC mode stopped
+2025-07-20 09:04:05,227 - migrate - INFO - CDC mode stopped
+2025-07-20 09:04:05,234 - migrate - INFO - Generating CDC report...
+2025-07-20 09:04:09,688 - migrate - INFO - CDC report generated successfully
+2025-07-20 09:12:12,490 - migrate - INFO - === MongoDB Migration Tool Starting ===
+2025-07-20 09:12:12,494 - migrate - INFO - Validating source database connection...
+2025-07-20 09:12:14,630 - migrate - INFO - Validating target database connection...
+2025-07-20 09:12:16,426 - migrate - INFO - Database connections validated successfully
+2025-07-20 09:12:16,437 - migrate - INFO - Loaded 3 collections for migration
+2025-07-20 09:12:16,448 - migrate - INFO - Starting CDC mode with auto-threading
+2025-07-20 09:12:18,352 - migrate - WARNING - Change streams not supported: The $changeStream stage is only supported on replica sets, full error: {'ok': 0.0, 'errmsg': 'The $changeStream stage is only supported on replica sets', 'code': 40573, 'codeName': 'Location40573'}. Falling back to polling mode.
+2025-07-20 09:12:18,354 - migrate - INFO - Starting legacy CDC mode with polling in threaded (auto) mode
+2025-07-20 09:12:18,360 - migrate - INFO - Running CDC sync for 3 collections in test

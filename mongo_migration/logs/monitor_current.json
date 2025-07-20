@@ -13,7 +13,7 @@
     },
     "checkpoint": {
       "last_updated": 1752933042.392066,
-      "age_seconds": 26969.641634702682,
+      "age_seconds": 70241.90419363976,
       "checkpoint_data": {
         "last_updated_at": "2025-07-19T11:56:25.028000+00:00",
         "last_operation_time": null,
@@ -36,12 +36,12 @@
       "deletions": 6
     },
     "checkpoint": {
-      "last_updated": 1752959987.232219,
-      "age_seconds": 24.794764041900635,
+      "last_updated": 1753003270.354842,
+      "age_seconds": 13.923392534255981,
       "checkpoint_data": {
         "last_updated_at": null,
         "last_operation_time": "687c0a0b572e0bf199601c8f",
-        "timestamp": "2025-07-19T21:19:47.232219",
+        "timestamp": "2025-07-20T09:21:10.354842",
         "updates": 133,
         "deletions": 6
       },
@@ -54,20 +54,22 @@
     "source_db": "test",
     "target_db": "test",
     "progress": {
-      "source_count": 0,
-      "target_count": 0,
+      "source_count": 2,
+      "target_count": 2,
       "progress_pct": 100.0,
       "remaining": 0,
-      "updates": 0,
-      "deletions": 0
+      "updates": 61,
+      "deletions": 27
     },
     "checkpoint": {
-      "last_updated": 1752937037.817815,
-      "age_seconds": 22974.20197868347,
+      "last_updated": 1753003283.225494,
+      "age_seconds": 1.0351755619049072,
       "checkpoint_data": {
         "last_updated_at": null,
-        "last_operation_time": "687bafb8bfe1e437d489b803",
-        "timestamp": "2025-07-19T14:57:17.817815"
+        "last_operation_time": "687cb25a573e6460c589b059",
+        "timestamp": "2025-07-20T09:21:23.225494",
+        "updates": 61,
+        "deletions": 27
       },
       "history": []
     },

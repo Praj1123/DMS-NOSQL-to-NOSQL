@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-07-20 09:04:05",
+  "total_collections": 3,
+  "total_updates": 145,
+  "total_deletions": 7,
+  "collections": [
+    {
+      "name": "users",
+      "source_count": 0,
+      "target_count": 0,
+      "updates": 0,
+      "deletions": 0,
+      "update_percent": 0.0,
+      "deletion_percent": 0.0,
+      "last_update": "2025-07-19 13:50:42"
+    },
+    {
+      "name": "orders",
+      "source_count": 129,
+      "target_count": 129,
+      "updates": 133,
+      "deletions": 6,
+      "update_percent": 100,
+      "deletion_percent": 4.651162790697675,
+      "last_update": "2025-07-20 09:03:04"
+    },
+    {
+      "name": "agents",
+      "source_count": 6,
+      "target_count": 6,
+      "updates": 12,
+      "deletions": 1,
+      "update_percent": 100,
+      "deletion_percent": 16.666666666666664,
+      "last_update": "2025-07-20 09:04:01"
+    }
+  ]
+}
