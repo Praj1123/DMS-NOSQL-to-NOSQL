@@ -4,10 +4,11 @@ from pymongo import MongoClient
 from hashlib import md5
 from tqdm import tqdm
 from queue import Queue
+import os
 
 # CONFIG
-COSMOS_URI = "$SOURCE_URI"
-EC2_URI = "$TARGET_URI"
+COSMOS_URI = os.environ.get("SOURCE_URI")
+EC2_URI = os.environ.get("TARGET_URI")
 COLLECTION_FILE = "collections.json"
 SAMPLE_LIMIT = None  # Use None for full scan or set integer for sampling
 
